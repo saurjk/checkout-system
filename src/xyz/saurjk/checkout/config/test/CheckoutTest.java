@@ -1,8 +1,11 @@
-package xyz.saurjk.checkout.config;
+package xyz.saurjk.checkout.config.test;
 
 import static org.junit.Assert.*;
 
 import org.junit.Test;
+
+import xyz.saurjk.checkout.config.Checkout;
+import xyz.saurjk.checkout.config.Rules;
 
 public class CheckoutTest {
 
