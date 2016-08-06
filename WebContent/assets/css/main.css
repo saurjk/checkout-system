@@ -1,0 +1,10 @@
+.container{
+	width: 60%;
+	align: center;
+}
+.checkout {
+	float: left;
+}
+.priceStructure {
+	float: right;
+}
