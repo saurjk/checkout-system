@@ -14,7 +14,3 @@ $(document).ready(function() {
     })
     
 });
-
-function onItemEntry(item){
-	
-}
